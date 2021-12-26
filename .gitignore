@@ -1,0 +1,10 @@
+__pycache__
+index
+node_modules
+vgg_features_clean
+launch.bat
+features_df_1million.csv
+ngrok.exe
+package.json
+package-lock.json
+server.js
